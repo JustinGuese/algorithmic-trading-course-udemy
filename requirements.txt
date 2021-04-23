@@ -1,0 +1,8 @@
+# run pip install -r requirements.txt for install
+yfinance
+pandas 
+numpy
+matplotlib
+sklearn
+tqdm
+
